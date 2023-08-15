@@ -8,7 +8,7 @@ When a vehicle or set of vehicles in the `to_be_released/` folder is ready for r
 1. Create a Pull Request (PR) to merge the `private` branch into `main`.
 1. Push `main` to github.com/nrel/fastsim-vehicles.  
 
-This works because the `private/` and `to_be_released/` folders were deleted as part of a commit in main.
+This works because the `private/` and `to_be_released/` folders were deleted as part of a commit in main.  **Note that the `private` branch should never be pushed to any repo outside of NREL.**
 
 # Documentation Nomenclature
 | Level | Calibration | Validation | 
