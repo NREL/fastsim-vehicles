@@ -1,0 +1,1 @@
+This folder should contain only vehicle models that are suitable for public release.  Such vehicle models should inculde a decent amount of documentation.  
