@@ -1,1 +1,0 @@
-This folder should contain only vehicle models that will be suitable for public release after calibration and/or validation and writing good documentation.  

@@ -1,1 +1,0 @@
-Vehicle models in this folder should never be made publicly available, and this should be noted in the vehicle file, preferably in the `doc` field.  
