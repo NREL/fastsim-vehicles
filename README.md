@@ -1,5 +1,6 @@
 # fastsim-vehicles
-Repository for [FASTSim](https://www.nrel.gov/transportation/fastsim.html) vehicles.
+Repository for [FASTSim](https://www.nrel.gov/transportation/fastsim.html) vehicles.  
+Public version of this repo: https://github.com/NREL/fastsim-vehicles
 
 # Release Process
 
