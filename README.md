@@ -5,9 +5,10 @@ Public version of this repo: https://github.com/NREL/fastsim-vehicles
 # Release Process
 
 When a vehicle or set of vehicles in the `to_be_released/` folder is ready for release from the `private` git branch:
-1. Move the vehicle to the `public/` folder, add the new file in git, and commit the change.
-1. Create a Pull Request (PR) to merge the `private` branch into `main`.
-1. Push `main` to github.com/nrel/fastsim-vehicles.  
+1. Move the vehicle to the `public/` folder, add the new file in git, and commit the change. 
+2. Push the change to github.nrel.gov/MBAP/fastsim-vehicles in the `private` branch.  
+3. Create a Pull Request (PR) to merge the `private` branch into `main`.
+4. Pull `main` from github.nrel.gov/MBAP/fastsim-vehicles and then push `main` to github.com/nrel/fastsim-vehicles.  
 
 This works because the `private/` and `to_be_released/` folders were deleted as part of a commit in main.  **Note that the `private` branch should never be pushed to any repo outside of NREL and that `main` should never be merged into `private`.**
 
