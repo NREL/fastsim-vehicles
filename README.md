@@ -4,7 +4,7 @@ Public version of this repo: https://github.com/NREL/fastsim-vehicles
 
 # Release Process
 
-When a vehicle or set of vehicles in the `to_be_released/` folder is ready for release in the `private` git branch:
+When a vehicle or set of vehicles in the `to_be_released/` folder is ready for release from the `private` git branch:
 1. Move the vehicle to the `public/` folder, add the new file in git, and commit the change.
 1. Create a Pull Request (PR) to merge the `private` branch into `main`.
 1. Push `main` to github.com/nrel/fastsim-vehicles.  
