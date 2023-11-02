@@ -18,3 +18,7 @@ This works because the `private/` and `to_be_released/` folders were deleted as 
 | 0 | Vehicle is parameterized without any fitting to performance data.  Maybe we should call this parameterization.  | N/A | 
 | 1 | Vehicle parameters are adjusted so that model results reasonably match test data for aggregate, cycle-level data (e.g. fuel usage, net SOC change) | Model results reasonably match at least some aggregate, cycle-level test data not used in any calibration process |
 | 2 | Vehicle parameters are adjusted so that model results reasonably match test data for time-resolved test data (e.g. instantaneous fuel usage, instantaneous cumulative fuel usage, instantaneous SOC) | Model results reasonably match at least some time-resolved test data not used in any calibration process |
+
+## TODO: 
+- [ ] link to example of properly filled out yaml file with detailed explanation of everything
+- [ ] link to template yaml file 
